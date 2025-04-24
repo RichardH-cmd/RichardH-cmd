@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🌱 I’m currently learning about Git and its use with visual studio code.
+
+
+
+
+
 <!--
 **RichardH-cmd/RichardH-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
